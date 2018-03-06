@@ -1,0 +1,115 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	color: #333;
+}
+
+label.error {
+  font-weight: 700;
+  font-size: 10px;
+  background: #DA202C;
+  color: #fff;
+  position: absolute;
+  bottom: 8px;
+  right: 7px;
+  display: block;
+  line-height: 20px;
+  padding: 0 5px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+.btn
+{
+    margin-bottom: 4px;
+}
+
+.table thead th
+{
+    text-align: center;
+}
+
+#top-datos
+{
+    background: #0678C4;
+    border-bottom: solid 1px #0064A7;
+    color: #fff;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 4px #555;
+}
+
+#top-datos a
+{
+    color: #fff;
+}
+
+#top-datos ul.dropdown-menu li a
+{
+    color: #333;
+}
+
+.menu-icon
+{
+    border: solid 1px #0D99F7 !important;
+    color: #0D99F7 !important;
+}
+
+.logo-env
+{
+    background: #0064A7;    
+}
+
+.neon-loading-bar span {
+    background: #0D99F7;
+}
+
+.table-responsive
+{
+    
+    overflow-x: auto;
+    
+}
+
+.panel-title
+{
+    text-transform: uppercase;
+}
+
+.decimales, .enteros
+{
+    text-align: right;
+}
+
+.panel-academico
+{
+    border-color: #0678C4;
+}
+
+.bg-academico
+{
+    background: #0678C4;
+    color: #fff;
+}
+#table-1 td a, #table-1 th a
+{
+    text-transform: none;
+}
+#table-1 td, #table-1 th
+{
+    text-transform: uppercase; 
+    font-size: 11px;
+}
+
+#table td a, #table th a
+{
+    text-transform: none;
+}
+#table td, #table th
+{
+    text-transform: uppercase; 
+    font-size: 11px;
+}
